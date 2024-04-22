@@ -3,7 +3,7 @@
   "version": "1.5.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awslabs/cognito-at-edge"
+    "url": "https://github.com/fchiba/cognito-at-edge"
   },
   "description": "Cognito authentication made easy to protect your website with CloudFront and Lambda@Edge.",
   "author": "AWS Builder Labs <aws-builder-labs@amazon.com>",
